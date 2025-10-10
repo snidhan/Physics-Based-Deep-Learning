@@ -597,6 +597,9 @@ DOI: <https://doi.org/10.1002/cnm.1640100303>
 
 ## Additional Links for Other Physics Problems and Physics-related Problems
 
+Towards a Physics Foundation Model , 
+PDF: <https://arxiv.org/abs/2509.13805>
+
 FunDiff: diffusion models over function spaces for physics-informed generative modeling , 
 PDF: <https://arxiv.org/pdf/2506.07902>
 
